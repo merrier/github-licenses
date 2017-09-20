@@ -1,41 +1,27 @@
                                  Apache License
-                           Version 2.0, January 2004
+                               版本：2.0, 2004 1月
                         http://www.apache.org/licenses/
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+   条款以及使用、复制和分发所需条件
 
-   1. Definitions.
+   1. 定义
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+      "许可证"指本条款第1至第9结所规定的关于使用、复制和分发的所需条件
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
+      "许可方"指授予许可证的著作权人授权的著作权人或实体
 
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+      "法律实体"指代理实体和与该实体控制、被控制或被共同控制的所有其他实体的联合体。就本定义而言，"控制"指：
+      （一）不论是以合同或其他方式直接或间接影响该实体的方向或管理，或
+      （二）拥有百分之五十或以上已发行股票的所有权，或
+      （三）拥有该实体的实际收益所有权。
 
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
+      "你"(或"你的")是指行使本许可授予的权限的个人或法人实体
 
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
+      "源"格式是指进行修改的首选格式，包括但不限于软件源码、文档源和配置文件
 
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
+      "对象"格式是指源格式的机械转换或经过翻译生成的任何格式，包括但不限于编译过的对象代码、生成的文档和转换成的其他媒体类型文件
 
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
+      "作品"指著作权或以
 
       "Derivative Works" shall mean any work, whether in Source or Object
       form, that is based on (or derived from) the Work and for which the
